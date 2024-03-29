@@ -1,5 +1,3 @@
-# wivino
-
 # Project README: Vivino Database Analysis
 
 This project focuses on analyzing the Vivino database using SQL queries. The database contains information about wines, wineries, countries, regions, and more.
